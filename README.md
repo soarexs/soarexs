@@ -1,4 +1,4 @@
-## Olá! Muito prazer, sou o Andrey
+## Hello! Much pleasure, I'm andrey
 -💻 Atualmente atuo no front-end<br>
 -📚 Estudando Node.js e typescript<br>
 -👩‍💻 HTML5, CSS3, JavaScript, Next.js e React
@@ -13,6 +13,8 @@
   <img align="center" alt="And-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="And-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="And-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
   
 ##
