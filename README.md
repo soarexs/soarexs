@@ -1,4 +1,4 @@
-## Hello! Much pleasure, I'm andrey
+## Hello! Much pleasure, I'm Andrey
 
 <div align="center">
   <a href="https://github.com/soarexs">
