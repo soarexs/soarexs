@@ -6,7 +6,7 @@ I would be very grateful if I could help you with my code.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soarexs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-## skils
+## skills
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=22272E&labelColor=f0f0f0)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/React-5ed4f4?style=for-the-badge&logo=react&logoColor=22272E&labelColor=f0f0f0)](https://reactjs.org/)
 [![](https://img.shields.io/badge/NodeJS-306E17?style=for-the-badge&logo=node.js&logoColor=22272E&labelColor=f0f0f0&)](https://nodejs.org/)
